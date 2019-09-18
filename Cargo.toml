@@ -19,7 +19,7 @@ maybe-owned = "0.3"
 [build-dependencies]
 bart = "0.1"
 bart_derive = "0.1"
-bindgen = "0.50"
+bindgen = "0.51"
 cpp_build = "0.5"
 curl = "0.4"
 failure = "0.1"
